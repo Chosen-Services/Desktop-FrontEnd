@@ -1,0 +1,39 @@
+{
+  "Apps": [
+    {
+      "name": "VS_Code",
+      "details": {
+        "name": "Visual Studio Code",
+        "icon": "images/VS-Code.png"
+      }
+    },
+    {
+      "name": "Files",
+      "details": {
+        "name": "File Manager",
+        "icon": "images/Files.png"
+      }
+    },
+    {
+      "name": "Discord",
+      "details": {
+        "name": "Discord",
+        "icon": "images/Discord.png"
+      }
+    },
+    {
+      "name": "Roblox",
+      "details": {
+        "name": "Roblox",
+        "icon": "images/Roblox.png"
+      }
+    },
+    {
+      "name": "RobloxStudio",
+      "details": {
+        "name": "Roblox Studio",
+        "icon": "images/Roblox_Studio.png"
+      }
+    }
+  ]
+}
